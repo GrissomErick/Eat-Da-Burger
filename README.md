@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/GrissomErick/Eat-Da-Burger/blob/master/images/Eat-Da-Burger.png?raw=true" alt="Project logo"></img>
+<img src="https://github.com/GrissomErick/Eat-Da-Burger/blob/master/images/eatdaburger.png?raw=true" alt="Project logo"></img>
 </div>
 
 # Eat-Da-Burger
@@ -12,7 +12,7 @@ UNC Coding Boot Camp - Eat-Da-Burger! - Assignment #12 (Node, Express, Handlebar
 The link below will give you direct access to Eat-Da-Burger web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
 
 <!-- Heroku References: https://evening-ridge-94356.herokuapp.com/ | https://git.heroku.com/evening-ridge-94356.git -->
-* [Eat-Da-Burger](https://www.google.com/)
+* [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ## Local Environment Setup
 To use Eat-Da-Burger web application application from your local environment, you must accomplish the following steps below:
