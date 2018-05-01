@@ -60,4 +60,4 @@ node server.js
 
 ## Author
 
-* **Erick Grissom** - *JS/Node.js/Express Server* - [Erick Grissom Eat-Da-Burger Repo](https://github.com/GrissomErick/Eat-Da-Burger)
+* **Erick Grissom** - *Node/Express/Handlebars* - [Erick Grissom Eat-Da-Burger Repo](https://github.com/GrissomErick/Eat-Da-Burger)
